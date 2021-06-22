@@ -15,6 +15,9 @@ lib
 # Linux Build
 Makefile
 
+# Python Stuff
+__pycache__
+
 # Valgrind stuff
 callgrind.out
 callgrind.out.*
